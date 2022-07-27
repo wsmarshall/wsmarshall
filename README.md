@@ -1,4 +1,8 @@
-### Hi there 👋
+Hello! My name is Warren, and I'm an inveterate bookworm, wannabe Rennaisance man, and perennial wiseacre who sometimes goes undercover as a writer. 
+
+I'm also occasionally studying for a degree in computer science – whenever I'm not wrapped up in side projects.
+
+
 
 <!--
 **wsmarshall/wsmarshall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
