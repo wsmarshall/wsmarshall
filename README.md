@@ -1,6 +1,4 @@
-Hello! My name is Warren, and I'm an inveterate bookworm, wannabe Rennaisance man, and perennial wiseacre who sometimes goes undercover as a writer. 
-
-I'm also occasionally studying for a degree in computer science – whenever I'm not wrapped up in side projects.
+Hello! My name is Warren, and I'm studying for a degree in computer science – whenever I'm not wrapped up in side projects.
 
 
 
