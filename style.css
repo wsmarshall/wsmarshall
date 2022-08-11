@@ -2,8 +2,13 @@
 
 body{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     text-align: left;
     justify-content: space-around;
     padding-top: 10%;
+}
+
+.left .profileImage img {
+    max-width:30%;
+    max-height:30%;
 }
